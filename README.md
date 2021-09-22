@@ -1,2 +1,2 @@
 # exercises_1
-“Hello Github!” hey
+“Hello Github!” hello
